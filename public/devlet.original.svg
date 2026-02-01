@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" class="iconify iconify--logos"
+  width="400" height="400" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16" fill="none">
+  <style>
+    path {
+    stroke: #800080;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    }
+  </style>
+  <path d="M4 6l-3 3l3 3M12 6l3 3l-3 3" />
+  <path
+    d="
+    M10 6h-3
+    c-0.5 0 -1 0.5 -1 1
+    v4
+    c0 0.5 0.5 1 1 1
+    h2
+    c0.5 0 1 -0.5 1 -1
+    v-2
+    c0 -0.5 -0.5 -1 -1 -1
+    h-2
+    c-0.5 0 -1 -0.5 -1 -1
+    c0 -0.5 0.5 -1 1 -1
+    z
+
+    M 8 9 a 1 1 0 1 1 2 0 a 1 1 0 1 1 -2 0 z
+    "
+    fill="#800080" fill-rule="evenodd" />
+</svg>
